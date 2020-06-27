@@ -1,0 +1,16 @@
+name: PlotBewerten
+author: TrenicHD
+main: TrenicHD\Main
+api: [3.0.0 , 4.0.0]
+description: ein Plot Bewerte System
+version: 1.0.0
+
+commands:
+  pthelp:
+    description: §c>>Plot-Bewerten Hilfe
+
+permissions:
+  bt.use:
+    default: op
+  pthelp.use:
+    default: op
